@@ -1,5 +1,7 @@
 {
-    "prefix": "seu prefixo ex: ! $ & ",
-    "token": "token do seu bot",
-    "apiKey": "sua api key do youtube"
+    "prefix": "escolhe seu prefixo ex: !",
+    "token": "token do seu bot, https://discordapp.com/developers/applications ",
+    "apiKey": "sua chave para a api do youtube, https://console.developers.google.com/apis"
 }
+
+

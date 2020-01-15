@@ -1,9 +1,0 @@
-version: '3'
-services: 
-  music-bot:
-    image: wandersouza/node-discordjs
-    volumes: 
-      - ./music-bot:/bot
-    working_dir: /bot
-    command: > 
-      sh -c  "yarn && node index.js"
